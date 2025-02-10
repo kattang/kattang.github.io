@@ -230,6 +230,11 @@ body {
   opacity: 0.6;
 }
 
+#footer .icon img{
+  width: 20px;
+  height: 22px;
+}
+
 #footer .social {
   margin: 0.9rem 0;
 }
